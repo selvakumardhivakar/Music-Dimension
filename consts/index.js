@@ -1,5 +1,5 @@
-import zens from "./zens";
+import musics from "./musics";
 
 export {
-    zens,
+    musics
 }

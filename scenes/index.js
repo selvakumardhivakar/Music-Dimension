@@ -1,7 +1,7 @@
 import HomeEnvironment from "./home-environment";
-import ZenEnvironment from "./zen-environment";
+import MusicEnvironment from "./music-environment";
 
 export {
     HomeEnvironment,
-    ZenEnvironment
+    MusicEnvironment
 }

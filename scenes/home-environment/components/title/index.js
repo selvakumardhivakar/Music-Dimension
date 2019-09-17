@@ -2,11 +2,11 @@ import React from "react";
 import { View, Text } from "react-360";
 import style from "./style";
 
-const Title = () => {
+const Title = (props) => {
     return (
         <View style={style.view}>
             <Text style={style.text}>
-                Find your zen
+                Music Speaks!
             </Text>
         </View>
     )
